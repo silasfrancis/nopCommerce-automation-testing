@@ -1,0 +1,696 @@
+2024-03-06 09:04:10,183 - root - INFO - *********************Test_001_Login*******************
+**********
+2024-03-06 09:04:10,184 - root - INFO - **************************Verifying Home Page Title****************************
+2024-03-06 09:04:30,934 - root - INFO - *****************Home page test is passed*****************************
+2024-03-06 09:04:48,669 - root - INFO - *****************Login test is passed*****************************
+2024-03-15 01:45:33,231 - selenium.webdriver.common.selenium_manager - WARNING - Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json): error trying to connect: dns error: No such host is known. (os error 11001)
+2024-03-15 01:46:26,316 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-15 01:46:26,316 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-15 01:47:05,513 - root - INFO - ****Login DDT test passed*****
+2024-03-15 01:47:05,831 - root - INFO - ****** End of Login DDT Test ********
+2024-03-15 01:47:05,832 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-15 01:58:51,631 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-15 01:58:51,632 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-15 02:00:42,937 - root - INFO - ****Login DDT test passed*****
+2024-03-15 02:00:43,169 - root - INFO - ****** End of Login DDT Test ********
+2024-03-15 02:00:43,171 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-17 19:42:02,282 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-17 19:42:05,491 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-17 19:44:38,923 - root - INFO - ************ Login Successful ************
+2024-03-17 19:44:38,923 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-17 19:47:12,096 - root - INFO - ************ Providing Customer Info ************
+2024-03-17 19:54:47,154 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-17 19:54:49,349 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-17 19:55:02,713 - root - INFO - ************ Login Successful ************
+2024-03-17 19:55:02,713 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-17 19:55:07,777 - root - INFO - ************ Providing Customer Info ************
+2024-03-17 20:05:17,534 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-17 20:05:19,356 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-17 20:05:29,621 - root - INFO - ************ Login Successful ************
+2024-03-17 20:05:29,621 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-17 20:05:34,681 - root - INFO - ************ Providing Customer Info ************
+2024-03-17 20:09:11,736 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-17 20:09:13,757 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-17 20:09:23,994 - root - INFO - ************ Login Successful ************
+2024-03-17 20:09:23,996 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-17 20:09:33,382 - root - INFO - ************ Providing Customer Info ************
+2024-03-17 20:11:58,154 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-17 20:12:00,106 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-17 20:17:01,609 - root - INFO - ************ Login Successful ************
+2024-03-17 20:17:01,609 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-17 20:17:07,769 - root - INFO - ************ Providing Customer Info ************
+2024-03-17 20:18:29,705 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-17 20:18:32,239 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-17 20:18:50,309 - root - INFO - ************ Login Successful ************
+2024-03-17 20:18:50,310 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-17 20:18:57,609 - root - INFO - ************ Providing Customer Info ************
+2024-03-17 20:29:34,026 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-17 20:29:35,975 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-17 20:29:55,919 - root - INFO - ************ Login Successful ************
+2024-03-17 20:29:55,919 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-17 20:30:03,382 - root - INFO - ************ Providing Customer Info ************
+2024-03-17 20:35:07,142 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-17 20:35:09,118 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-17 20:35:21,026 - root - INFO - ************ Login Successful ************
+2024-03-17 20:35:21,026 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-17 20:35:25,515 - root - INFO - ************ Providing Customer Info ************
+2024-03-18 13:30:41,785 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-18 13:31:01,674 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-18 13:31:12,169 - root - INFO - ************ Login Successful ************
+2024-03-18 13:31:12,169 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-18 13:31:18,900 - root - INFO - ************ Providing Customer Info ************
+2024-03-18 13:31:32,342 - root - INFO - ************ Saving Customer Info *************
+2024-03-18 13:31:33,438 - root - INFO - ********** Add Customer Test Passed ************
+2024-03-18 13:31:33,708 - root - INFO - ********** Ending Test_003 Add Customer Test **********
+2024-03-19 14:26:21,826 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 14:26:27,587 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-19 14:26:40,765 - root - INFO - ************* Login Successful *************
+2024-03-19 14:26:40,766 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-19 14:26:44,386 - root - INFO - *************** searching customer by EmailID *******************
+2024-03-19 14:35:47,338 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 14:35:49,686 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-19 14:36:02,541 - root - INFO - ************* Login Successful *************
+2024-03-19 14:36:02,541 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-19 14:36:06,397 - root - INFO - *************** searching customer by EmailID *******************
+2024-03-19 14:38:10,160 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 14:38:12,752 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-19 14:38:26,066 - root - INFO - ************* Login Successful *************
+2024-03-19 14:38:26,067 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-19 14:38:29,854 - root - INFO - *************** searching customer by EmailID *******************
+2024-03-19 14:47:34,921 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 14:47:37,413 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-19 14:47:48,921 - root - INFO - ************* Login Successful *************
+2024-03-19 14:47:48,921 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-19 14:48:34,068 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 14:48:36,505 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-19 14:48:48,399 - root - INFO - ************* Login Successful *************
+2024-03-19 14:48:48,399 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-19 14:48:51,275 - root - INFO - *************** searching customer by EmailID *******************
+2024-03-19 14:53:26,176 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 14:53:28,339 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 14:53:44,174 - root - INFO - ************* Login Successful *************
+2024-03-19 14:53:44,174 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 14:53:47,172 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 14:58:24,979 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 14:58:26,850 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-19 14:58:39,720 - root - INFO - ************* Login Successful *************
+2024-03-19 14:58:39,720 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-19 14:58:43,190 - root - INFO - *************** searching customer by EmailID *******************
+2024-03-19 14:58:49,564 - root - INFO - *************** Test_SearchCustomerByEmail_004 finished ********************
+2024-03-19 15:09:27,840 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 15:09:32,772 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-19 15:10:39,430 - root - INFO - ************* Login Successful *************
+2024-03-19 15:10:39,430 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-19 15:10:44,444 - root - INFO - *************** searching customer by EmailID *******************
+2024-03-19 15:10:50,627 - root - INFO - *************** Test_SearchCustomerByEmail_004 finished ********************
+2024-03-19 15:11:04,208 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 15:11:06,939 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-19 15:11:28,145 - root - INFO - ************* Login Successful *************
+2024-03-19 15:11:28,145 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-19 15:11:42,874 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 15:11:44,822 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 15:12:13,125 - root - INFO - ************* Login Successful *************
+2024-03-19 15:12:13,125 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 15:12:19,876 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 15:15:58,603 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 15:16:01,544 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 15:16:17,584 - root - INFO - ************* Login Successful *************
+2024-03-19 15:16:17,584 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 15:16:21,160 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 15:19:43,402 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 15:19:45,894 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 15:19:58,616 - root - INFO - ************* Login Successful *************
+2024-03-19 15:19:58,617 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 15:20:01,988 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 15:22:15,317 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 15:22:17,504 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 15:22:36,802 - root - INFO - ************* Login Successful *************
+2024-03-19 15:22:36,802 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 15:22:40,560 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 15:23:33,281 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 15:23:35,644 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 15:23:51,027 - root - INFO - ************* Login Successful *************
+2024-03-19 15:23:51,027 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 15:23:54,614 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 15:40:19,712 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 15:40:21,842 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 15:40:35,224 - root - INFO - ************* Login Successful *************
+2024-03-19 15:40:35,225 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 15:40:39,184 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 15:40:50,556 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (121.0.6167.85) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (122.0.6261.129); currently, chromedriver 122.0.6261.128 is recommended for chrome 122.*, so it is advised to delete the driver in PATH and retry
+2024-03-19 15:40:53,185 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 15:41:08,003 - root - INFO - ************* Login Successful *************
+2024-03-19 15:41:08,003 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 15:41:12,043 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 15:46:43,446 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 15:47:00,972 - root - INFO - ************* Login Successful *************
+2024-03-19 15:47:00,973 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 15:47:05,241 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 15:47:46,044 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 15:47:56,565 - root - INFO - ************* Login Successful *************
+2024-03-19 15:47:56,566 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 15:48:00,416 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 15:57:17,659 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 15:57:32,016 - root - INFO - ************* Login Successful *************
+2024-03-19 15:57:32,016 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 15:57:36,242 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 15:58:42,800 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 15:59:05,095 - root - INFO - ************* Login Successful *************
+2024-03-19 15:59:05,095 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 15:59:08,866 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 15:59:15,155 - root - INFO - *************** Test_SearchCustomerByName_005 finished ********************
+2024-03-19 16:08:11,728 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 16:08:24,534 - root - INFO - ************* Login Successful *************
+2024-03-19 16:08:24,534 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 16:08:28,464 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 16:14:04,935 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 16:14:42,471 - root - INFO - ************* Login Successful *************
+2024-03-19 16:14:42,472 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 16:14:52,346 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 16:16:04,112 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 16:16:22,065 - root - INFO - ************* Login Successful *************
+2024-03-19 16:16:22,066 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 16:17:14,809 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 16:20:13,724 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 16:24:45,599 - root - INFO - ************* Login Successful *************
+2024-03-19 16:24:45,599 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 16:25:11,737 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 16:27:36,753 - root - INFO - ************* Login Successful *************
+2024-03-19 16:27:36,754 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 16:30:37,374 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 16:30:57,395 - root - INFO - ************* Login Successful *************
+2024-03-19 16:30:57,395 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 16:31:01,934 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 16:31:46,169 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 16:32:07,113 - root - INFO - ************* Login Successful *************
+2024-03-19 16:32:07,114 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 16:32:11,418 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 16:32:50,351 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 16:33:14,227 - root - INFO - ************* Login Successful *************
+2024-03-19 16:33:14,228 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 16:33:17,715 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 16:33:24,070 - root - INFO - *************** Test_SearchCustomerByName_005 finished ********************
+2024-03-19 16:34:14,113 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 16:34:33,598 - root - INFO - ************* Login Successful *************
+2024-03-19 16:34:33,598 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 16:34:36,983 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 16:35:22,166 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 16:35:37,277 - root - INFO - ************* Login Successful *************
+2024-03-19 16:35:37,278 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 16:35:42,249 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 16:54:34,970 - selenium.webdriver.common.selenium_manager - WARNING - Exception managing chrome: request or response body error: operation timed out
+2024-03-19 16:54:36,671 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-19 16:54:47,635 - root - INFO - ************* Login Successful *************
+2024-03-19 16:54:47,635 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-19 16:54:50,824 - root - INFO - *************** searching customer by Name *******************
+2024-03-19 16:54:57,316 - root - INFO - *************** Test_SearchCustomerByName_005 finished ********************
+2024-03-19 16:55:53,181 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-19 16:56:53,761 - root - INFO - ************* Login Successful *************
+2024-03-19 16:56:53,762 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-19 16:57:00,555 - root - INFO - *************** searching customer by EmailID *******************
+2024-03-19 16:57:06,853 - root - INFO - *************** Test_SearchCustomerByEmail_004 finished ********************
+2024-03-20 22:13:09,434 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-20 22:16:27,759 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-20 22:32:21,293 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-20 22:34:10,362 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-20 22:37:09,267 - root - INFO - ************* Login Successful *************
+2024-03-20 22:37:09,268 - root - INFO - ************** Starting Export All Customer Info Xlsx ******************
+2024-03-20 22:46:27,759 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-20 22:47:02,196 - root - INFO - ************* Login Successful *************
+2024-03-20 22:47:02,196 - root - INFO - ************** Starting Export All Customer Info Xlsx ******************
+2024-03-20 22:49:33,162 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-20 22:51:26,550 - root - INFO - ************* Login Successful *************
+2024-03-20 22:51:26,551 - root - INFO - ************** Starting Export All Customer Info Xlsx ******************
+2024-03-21 09:24:22,874 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 09:24:37,102 - root - INFO - ************* Login Successful *************
+2024-03-21 09:24:37,102 - root - INFO - ************** Starting Export All Customer Info Xlsx ******************
+2024-03-21 09:27:46,335 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 09:27:59,449 - root - INFO - ************* Login Successful *************
+2024-03-21 09:27:59,449 - root - INFO - ************** Starting Export All Customer Info Xlsx ******************
+2024-03-21 09:33:47,483 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 09:34:07,638 - root - INFO - ************* Login Successful *************
+2024-03-21 09:34:07,639 - root - INFO - ************** Starting Export All Customer Info Xlsx ******************
+2024-03-21 09:36:30,682 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 09:38:40,972 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 09:38:59,336 - root - INFO - ************* Login Successful *************
+2024-03-21 09:38:59,337 - root - INFO - ************** Starting Export All Customer Info Xlsx ******************
+2024-03-21 09:42:15,324 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 09:42:36,331 - root - INFO - ************* Login Successful *************
+2024-03-21 09:42:36,332 - root - INFO - ************** Starting Export All Customer Info Xlsx ******************
+2024-03-21 09:47:02,055 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 09:47:23,289 - root - INFO - ************* Login Successful *************
+2024-03-21 09:47:23,289 - root - INFO - ************** Starting Export All Customer Info Xlsx ******************
+2024-03-21 09:48:58,503 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 09:49:16,183 - root - INFO - ************* Login Successful *************
+2024-03-21 09:49:16,183 - root - INFO - ************** Starting Export All Customer Info Xlsx ******************
+2024-03-21 10:18:10,156 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 10:18:22,836 - root - INFO - ************* Login Successful *************
+2024-03-21 10:18:22,837 - root - INFO - ************** Starting Export All Customer Info Xlsx ******************
+2024-03-21 10:19:37,760 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 10:19:58,787 - root - INFO - ************* Login Successful *************
+2024-03-21 10:19:58,787 - root - INFO - ************** Starting Export All Customer Info Xlsx ******************
+2024-03-21 10:23:07,917 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 10:23:19,512 - root - INFO - ************* Login Successful *************
+2024-03-21 10:23:19,512 - root - INFO - ************** Starting Export All Customer Info Xlsx ******************
+2024-03-21 15:21:22,012 - root - INFO - ****************** Export Selected Customer Info *****************
+2024-03-21 15:21:44,741 - root - INFO - ************* Login Successful *************
+2024-03-21 15:21:44,742 - root - INFO - ************** Starting Export Exported Customer Info to Xlsx file ******************
+2024-03-21 15:21:50,236 - root - INFO - ****************** Starting Customer Info Export *******************
+2024-03-21 15:22:46,975 - root - INFO - ****************** Export Selected Customer Info *****************
+2024-03-21 15:23:00,112 - root - INFO - ************* Login Successful *************
+2024-03-21 15:23:00,112 - root - INFO - ************** Starting Export Exported Customer Info to Xlsx file ******************
+2024-03-21 15:25:24,898 - root - INFO - ****************** Export Selected Customer Info *****************
+2024-03-21 15:25:39,590 - root - INFO - ************* Login Successful *************
+2024-03-21 15:25:39,590 - root - INFO - ************** Starting Export Exported Customer Info to Xlsx file ******************
+2024-03-21 15:25:45,095 - root - INFO - ****************** Starting Customer Info Export *******************
+2024-03-21 15:48:21,316 - root - INFO - ****************** Export Selected Customer Info *****************
+2024-03-21 15:48:35,041 - root - INFO - ************* Login Successful *************
+2024-03-21 15:48:35,041 - root - INFO - ************** Starting Export Exported Customer Info to Xlsx file ******************
+2024-03-21 15:48:39,295 - root - INFO - ****************** Starting Customer Info Export *******************
+2024-03-21 15:52:32,945 - root - INFO - ****************** Export Selected Customer Info *****************
+2024-03-21 15:52:45,264 - root - INFO - ************* Login Successful *************
+2024-03-21 15:52:45,265 - root - INFO - ************** Starting Export Exported Customer Info to Xlsx file ******************
+2024-03-21 15:52:49,435 - root - INFO - ****************** Starting Customer Info Export *******************
+2024-03-21 15:53:01,862 - root - INFO - ********************* Test_ExportSelectedCustomerInfoXlsx_007 finished **********************
+2024-03-21 15:53:20,691 - root - INFO - ****************** Export Selected Customer Info *****************
+2024-03-21 15:53:41,773 - root - INFO - ************* Login Successful *************
+2024-03-21 15:53:41,774 - root - INFO - ************** Starting Export Exported Customer Info to Xlsx file ******************
+2024-03-21 15:54:43,041 - root - INFO - ****************** Export Selected Customer Info *****************
+2024-03-21 15:55:01,710 - root - INFO - ************* Login Successful *************
+2024-03-21 15:55:01,710 - root - INFO - ************** Starting Export Exported Customer Info to Xlsx file ******************
+2024-03-21 15:55:08,778 - root - INFO - ****************** Starting Customer Info Export *******************
+2024-03-21 15:55:22,163 - root - INFO - ********************* Test_ExportSelectedCustomerInfoXlsx_007 finished **********************
+2024-03-21 16:01:20,241 - root - INFO - ****************** Export Selected Customer Info *****************
+2024-03-21 16:01:20,241 - root - INFO - ****************** Export Selected Customer Info *****************
+2024-03-21 16:01:20,241 - root - INFO - ****************** Export Selected Customer Info *****************
+2024-03-21 16:01:20,241 - root - INFO - ****************** Export Selected Customer Info *****************
+2024-03-21 16:01:20,241 - root - INFO - ****************** Export Selected Customer Info *****************
+2024-03-21 16:01:20,241 - root - INFO - ****************** Export Selected Customer Info *****************
+2024-03-21 16:01:20,241 - root - INFO - ****************** Export Selected Customer Info *****************
+2024-03-21 16:01:20,398 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 16:01:20,398 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 16:01:20,398 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 16:01:20,398 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 16:01:20,398 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 16:01:20,398 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 16:01:20,398 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 16:01:21,027 - root - INFO - *****************Verifying Login test*****************************
+2024-03-21 16:01:21,027 - root - INFO - *****************Verifying Login test*****************************
+2024-03-21 16:01:21,027 - root - INFO - *****************Verifying Login test*****************************
+2024-03-21 16:01:21,027 - root - INFO - *****************Verifying Login test*****************************
+2024-03-21 16:01:21,027 - root - INFO - *****************Verifying Login test*****************************
+2024-03-21 16:01:21,027 - root - INFO - *****************Verifying Login test*****************************
+2024-03-21 16:01:21,027 - root - INFO - *****************Verifying Login test*****************************
+2024-03-21 16:01:44,074 - root - INFO - ************* Login Successful *************
+2024-03-21 16:01:44,074 - root - INFO - ************* Login Successful *************
+2024-03-21 16:01:44,074 - root - INFO - ************* Login Successful *************
+2024-03-21 16:01:44,074 - root - INFO - ************* Login Successful *************
+2024-03-21 16:01:44,074 - root - INFO - ************* Login Successful *************
+2024-03-21 16:01:44,074 - root - INFO - ************* Login Successful *************
+2024-03-21 16:01:44,074 - root - INFO - ************* Login Successful *************
+2024-03-21 16:01:44,074 - root - INFO - ************** Starting Export Exported Customer Info to Xlsx file ******************
+2024-03-21 16:01:44,074 - root - INFO - ************** Starting Export Exported Customer Info to Xlsx file ******************
+2024-03-21 16:01:44,074 - root - INFO - ************** Starting Export Exported Customer Info to Xlsx file ******************
+2024-03-21 16:01:44,074 - root - INFO - ************** Starting Export Exported Customer Info to Xlsx file ******************
+2024-03-21 16:01:44,074 - root - INFO - ************** Starting Export Exported Customer Info to Xlsx file ******************
+2024-03-21 16:01:44,074 - root - INFO - ************** Starting Export Exported Customer Info to Xlsx file ******************
+2024-03-21 16:01:44,074 - root - INFO - ************** Starting Export Exported Customer Info to Xlsx file ******************
+2024-03-21 16:01:45,515 - root - INFO - *****************Login test is passed*****************************
+2024-03-21 16:01:45,515 - root - INFO - *****************Login test is passed*****************************
+2024-03-21 16:01:45,515 - root - INFO - *****************Login test is passed*****************************
+2024-03-21 16:01:45,515 - root - INFO - *****************Login test is passed*****************************
+2024-03-21 16:01:45,515 - root - INFO - *****************Login test is passed*****************************
+2024-03-21 16:01:45,515 - root - INFO - *****************Login test is passed*****************************
+2024-03-21 16:01:45,515 - root - INFO - *****************Login test is passed*****************************
+2024-03-21 16:01:48,105 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 16:01:48,105 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 16:01:48,105 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 16:01:48,105 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 16:01:48,105 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 16:01:48,105 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 16:01:48,105 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 16:01:48,112 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 16:01:48,112 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 16:01:48,112 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 16:01:48,112 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 16:01:48,112 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 16:01:48,112 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 16:01:48,112 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 16:01:49,509 - root - INFO - ************ Login Successful ************
+2024-03-21 16:01:49,509 - root - INFO - ************ Login Successful ************
+2024-03-21 16:01:49,509 - root - INFO - ************ Login Successful ************
+2024-03-21 16:01:49,509 - root - INFO - ************ Login Successful ************
+2024-03-21 16:01:49,509 - root - INFO - ************ Login Successful ************
+2024-03-21 16:01:49,509 - root - INFO - ************ Login Successful ************
+2024-03-21 16:01:49,509 - root - INFO - ************ Login Successful ************
+2024-03-21 16:01:49,509 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 16:01:49,509 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 16:01:49,509 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 16:01:49,509 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 16:01:49,509 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 16:01:49,509 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 16:01:49,509 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 16:01:52,985 - root - INFO - ****************** Starting Customer Info Export *******************
+2024-03-21 16:01:52,985 - root - INFO - ****************** Starting Customer Info Export *******************
+2024-03-21 16:01:52,985 - root - INFO - ****************** Starting Customer Info Export *******************
+2024-03-21 16:01:52,985 - root - INFO - ****************** Starting Customer Info Export *******************
+2024-03-21 16:01:52,985 - root - INFO - ****************** Starting Customer Info Export *******************
+2024-03-21 16:01:52,985 - root - INFO - ****************** Starting Customer Info Export *******************
+2024-03-21 16:01:52,985 - root - INFO - ****************** Starting Customer Info Export *******************
+2024-03-21 16:02:03,405 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 16:02:03,405 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 16:02:03,405 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 16:02:03,405 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 16:02:03,405 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 16:02:03,405 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 16:02:03,405 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 16:02:05,980 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 16:02:05,980 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 16:02:05,980 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 16:02:05,980 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 16:02:05,980 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 16:02:05,980 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 16:02:05,980 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 16:02:07,415 - root - INFO - ********************* Test_ExportSelectedCustomerInfoXlsx_007 finished **********************
+2024-03-21 16:02:07,415 - root - INFO - ********************* Test_ExportSelectedCustomerInfoXlsx_007 finished **********************
+2024-03-21 16:02:07,415 - root - INFO - ********************* Test_ExportSelectedCustomerInfoXlsx_007 finished **********************
+2024-03-21 16:02:07,415 - root - INFO - ********************* Test_ExportSelectedCustomerInfoXlsx_007 finished **********************
+2024-03-21 16:02:07,415 - root - INFO - ********************* Test_ExportSelectedCustomerInfoXlsx_007 finished **********************
+2024-03-21 16:02:07,415 - root - INFO - ********************* Test_ExportSelectedCustomerInfoXlsx_007 finished **********************
+2024-03-21 16:02:07,415 - root - INFO - ********************* Test_ExportSelectedCustomerInfoXlsx_007 finished **********************
+2024-03-21 16:02:08,430 - root - INFO - ****Login DDT test passed*****
+2024-03-21 16:02:08,430 - root - INFO - ****Login DDT test passed*****
+2024-03-21 16:02:08,430 - root - INFO - ****Login DDT test passed*****
+2024-03-21 16:02:08,430 - root - INFO - ****Login DDT test passed*****
+2024-03-21 16:02:08,430 - root - INFO - ****Login DDT test passed*****
+2024-03-21 16:02:08,430 - root - INFO - ****Login DDT test passed*****
+2024-03-21 16:02:08,430 - root - INFO - ****Login DDT test passed*****
+2024-03-21 16:02:09,927 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 16:02:09,927 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 16:02:09,927 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 16:02:09,927 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 16:02:09,927 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 16:02:09,927 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 16:02:09,927 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 16:02:09,928 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 16:02:09,928 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 16:02:09,928 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 16:02:09,928 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 16:02:09,928 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 16:02:09,928 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 16:02:09,928 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 16:02:11,423 - root - INFO - *********************Test_001_Login*******************
+2024-03-21 16:02:11,423 - root - INFO - *********************Test_001_Login*******************
+2024-03-21 16:02:11,423 - root - INFO - *********************Test_001_Login*******************
+2024-03-21 16:02:11,423 - root - INFO - *********************Test_001_Login*******************
+2024-03-21 16:02:11,423 - root - INFO - *********************Test_001_Login*******************
+2024-03-21 16:02:11,423 - root - INFO - *********************Test_001_Login*******************
+2024-03-21 16:02:11,423 - root - INFO - *********************Test_001_Login*******************
+2024-03-21 16:02:11,424 - root - INFO - **************************Verifying Home Page Title****************************
+2024-03-21 16:02:11,424 - root - INFO - **************************Verifying Home Page Title****************************
+2024-03-21 16:02:11,424 - root - INFO - **************************Verifying Home Page Title****************************
+2024-03-21 16:02:11,424 - root - INFO - **************************Verifying Home Page Title****************************
+2024-03-21 16:02:11,424 - root - INFO - **************************Verifying Home Page Title****************************
+2024-03-21 16:02:11,424 - root - INFO - **************************Verifying Home Page Title****************************
+2024-03-21 16:02:11,424 - root - INFO - **************************Verifying Home Page Title****************************
+2024-03-21 16:02:13,552 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-21 16:02:13,552 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-21 16:02:13,552 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-21 16:02:13,552 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-21 16:02:13,552 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-21 16:02:13,552 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-21 16:02:13,552 - root - INFO - *************** Search CustomerBy Email ****************
+2024-03-21 16:02:25,399 - root - INFO - *****************Home page test is passed*****************************
+2024-03-21 16:02:25,399 - root - INFO - *****************Home page test is passed*****************************
+2024-03-21 16:02:25,399 - root - INFO - *****************Home page test is passed*****************************
+2024-03-21 16:02:25,399 - root - INFO - *****************Home page test is passed*****************************
+2024-03-21 16:02:25,399 - root - INFO - *****************Home page test is passed*****************************
+2024-03-21 16:02:25,399 - root - INFO - *****************Home page test is passed*****************************
+2024-03-21 16:02:25,399 - root - INFO - *****************Home page test is passed*****************************
+2024-03-21 16:02:27,476 - root - INFO - ************* Login Successful *************
+2024-03-21 16:02:27,476 - root - INFO - ************* Login Successful *************
+2024-03-21 16:02:27,476 - root - INFO - ************* Login Successful *************
+2024-03-21 16:02:27,476 - root - INFO - ************* Login Successful *************
+2024-03-21 16:02:27,476 - root - INFO - ************* Login Successful *************
+2024-03-21 16:02:27,476 - root - INFO - ************* Login Successful *************
+2024-03-21 16:02:27,476 - root - INFO - ************* Login Successful *************
+2024-03-21 16:02:27,476 - root - INFO - ************** Starting Export All Customer Info to Xlsx file ******************
+2024-03-21 16:02:27,476 - root - INFO - ************** Starting Export All Customer Info to Xlsx file ******************
+2024-03-21 16:02:27,476 - root - INFO - ************** Starting Export All Customer Info to Xlsx file ******************
+2024-03-21 16:02:27,476 - root - INFO - ************** Starting Export All Customer Info to Xlsx file ******************
+2024-03-21 16:02:27,476 - root - INFO - ************** Starting Export All Customer Info to Xlsx file ******************
+2024-03-21 16:02:27,476 - root - INFO - ************** Starting Export All Customer Info to Xlsx file ******************
+2024-03-21 16:02:27,476 - root - INFO - ************** Starting Export All Customer Info to Xlsx file ******************
+2024-03-21 16:02:36,730 - root - INFO - ****************** Starting All Customer Info Export *******************
+2024-03-21 16:02:36,730 - root - INFO - ****************** Starting All Customer Info Export *******************
+2024-03-21 16:02:36,730 - root - INFO - ****************** Starting All Customer Info Export *******************
+2024-03-21 16:02:36,730 - root - INFO - ****************** Starting All Customer Info Export *******************
+2024-03-21 16:02:36,730 - root - INFO - ****************** Starting All Customer Info Export *******************
+2024-03-21 16:02:36,730 - root - INFO - ****************** Starting All Customer Info Export *******************
+2024-03-21 16:02:36,730 - root - INFO - ****************** Starting All Customer Info Export *******************
+2024-03-21 16:02:41,410 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-21 16:02:41,410 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-21 16:02:41,410 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-21 16:02:41,410 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-21 16:02:41,410 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-21 16:02:41,410 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-21 16:02:41,410 - root - INFO - *************** Search CustomerBy Name ****************
+2024-03-21 16:02:41,882 - root - INFO - ************* Login Successful *************
+2024-03-21 16:02:41,882 - root - INFO - ************* Login Successful *************
+2024-03-21 16:02:41,882 - root - INFO - ************* Login Successful *************
+2024-03-21 16:02:41,882 - root - INFO - ************* Login Successful *************
+2024-03-21 16:02:41,882 - root - INFO - ************* Login Successful *************
+2024-03-21 16:02:41,882 - root - INFO - ************* Login Successful *************
+2024-03-21 16:02:41,882 - root - INFO - ************* Login Successful *************
+2024-03-21 16:02:41,883 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-21 16:02:41,883 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-21 16:02:41,883 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-21 16:02:41,883 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-21 16:02:41,883 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-21 16:02:41,883 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-21 16:02:41,883 - root - INFO - ************** Starting Search Customer by Email ******************
+2024-03-21 16:02:49,811 - root - INFO - *************** searching customer by EmailID *******************
+2024-03-21 16:02:49,811 - root - INFO - *************** searching customer by EmailID *******************
+2024-03-21 16:02:49,811 - root - INFO - *************** searching customer by EmailID *******************
+2024-03-21 16:02:49,811 - root - INFO - *************** searching customer by EmailID *******************
+2024-03-21 16:02:49,811 - root - INFO - *************** searching customer by EmailID *******************
+2024-03-21 16:02:49,811 - root - INFO - *************** searching customer by EmailID *******************
+2024-03-21 16:02:49,811 - root - INFO - *************** searching customer by EmailID *******************
+2024-03-21 16:02:56,471 - root - INFO - *************** Test_SearchCustomerByEmail_004 finished ********************
+2024-03-21 16:02:56,471 - root - INFO - *************** Test_SearchCustomerByEmail_004 finished ********************
+2024-03-21 16:02:56,471 - root - INFO - *************** Test_SearchCustomerByEmail_004 finished ********************
+2024-03-21 16:02:56,471 - root - INFO - *************** Test_SearchCustomerByEmail_004 finished ********************
+2024-03-21 16:02:56,471 - root - INFO - *************** Test_SearchCustomerByEmail_004 finished ********************
+2024-03-21 16:02:56,471 - root - INFO - *************** Test_SearchCustomerByEmail_004 finished ********************
+2024-03-21 16:02:56,471 - root - INFO - *************** Test_SearchCustomerByEmail_004 finished ********************
+2024-03-21 16:03:06,825 - root - INFO - ************* Login Successful *************
+2024-03-21 16:03:06,825 - root - INFO - ************* Login Successful *************
+2024-03-21 16:03:06,825 - root - INFO - ************* Login Successful *************
+2024-03-21 16:03:06,825 - root - INFO - ************* Login Successful *************
+2024-03-21 16:03:06,825 - root - INFO - ************* Login Successful *************
+2024-03-21 16:03:06,825 - root - INFO - ************* Login Successful *************
+2024-03-21 16:03:06,825 - root - INFO - ************* Login Successful *************
+2024-03-21 16:03:06,825 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-21 16:03:06,825 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-21 16:03:06,825 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-21 16:03:06,825 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-21 16:03:06,825 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-21 16:03:06,825 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-21 16:03:06,825 - root - INFO - ************** Starting Search Customer by Name ******************
+2024-03-21 16:03:12,626 - root - INFO - *************** searching customer by Name *******************
+2024-03-21 16:03:12,626 - root - INFO - *************** searching customer by Name *******************
+2024-03-21 16:03:12,626 - root - INFO - *************** searching customer by Name *******************
+2024-03-21 16:03:12,626 - root - INFO - *************** searching customer by Name *******************
+2024-03-21 16:03:12,626 - root - INFO - *************** searching customer by Name *******************
+2024-03-21 16:03:12,626 - root - INFO - *************** searching customer by Name *******************
+2024-03-21 16:03:12,626 - root - INFO - *************** searching customer by Name *******************
+2024-03-21 16:03:18,925 - root - INFO - *************** Test_SearchCustomerByName_005 finished ********************
+2024-03-21 16:03:18,925 - root - INFO - *************** Test_SearchCustomerByName_005 finished ********************
+2024-03-21 16:03:18,925 - root - INFO - *************** Test_SearchCustomerByName_005 finished ********************
+2024-03-21 16:03:18,925 - root - INFO - *************** Test_SearchCustomerByName_005 finished ********************
+2024-03-21 16:03:18,925 - root - INFO - *************** Test_SearchCustomerByName_005 finished ********************
+2024-03-21 16:03:18,925 - root - INFO - *************** Test_SearchCustomerByName_005 finished ********************
+2024-03-21 16:03:18,925 - root - INFO - *************** Test_SearchCustomerByName_005 finished ********************
+2024-03-21 16:04:50,582 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 16:05:17,194 - root - INFO - ************ Login Successful ************
+2024-03-21 16:05:17,195 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 16:06:34,277 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 16:06:53,801 - root - INFO - ************ Login Successful ************
+2024-03-21 16:06:53,801 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 16:07:04,406 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 16:09:34,358 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 16:09:54,105 - root - INFO - ************ Login Successful ************
+2024-03-21 16:09:54,106 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 19:52:07,387 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 19:52:07,387 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 19:52:07,387 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 19:52:07,387 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 19:52:07,387 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 19:52:07,387 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 19:52:07,387 - root - INFO - *********** Test_003_AddCustomer ************
+2024-03-21 19:52:18,377 - root - INFO - ************ Login Successful ************
+2024-03-21 19:52:18,377 - root - INFO - ************ Login Successful ************
+2024-03-21 19:52:18,377 - root - INFO - ************ Login Successful ************
+2024-03-21 19:52:18,377 - root - INFO - ************ Login Successful ************
+2024-03-21 19:52:18,377 - root - INFO - ************ Login Successful ************
+2024-03-21 19:52:18,377 - root - INFO - ************ Login Successful ************
+2024-03-21 19:52:18,377 - root - INFO - ************ Login Successful ************
+2024-03-21 19:52:18,377 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 19:52:18,377 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 19:52:18,377 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 19:52:18,377 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 19:52:18,377 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 19:52:18,377 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 19:52:18,377 - root - INFO - ************ Starting Add Customer Test **************
+2024-03-21 19:52:23,162 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 19:52:23,162 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 19:52:23,162 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 19:52:23,162 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 19:52:23,162 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 19:52:23,162 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 19:52:23,162 - root - INFO - ************ Providing Customer Info ************
+2024-03-21 19:52:36,765 - root - INFO - ************ Saving Customer Info *************
+2024-03-21 19:52:36,765 - root - INFO - ************ Saving Customer Info *************
+2024-03-21 19:52:36,765 - root - INFO - ************ Saving Customer Info *************
+2024-03-21 19:52:36,765 - root - INFO - ************ Saving Customer Info *************
+2024-03-21 19:52:36,765 - root - INFO - ************ Saving Customer Info *************
+2024-03-21 19:52:36,765 - root - INFO - ************ Saving Customer Info *************
+2024-03-21 19:52:36,765 - root - INFO - ************ Saving Customer Info *************
+2024-03-21 19:52:38,401 - root - INFO - ********** Add Customer Test Passed ************
+2024-03-21 19:52:38,401 - root - INFO - ********** Add Customer Test Passed ************
+2024-03-21 19:52:38,401 - root - INFO - ********** Add Customer Test Passed ************
+2024-03-21 19:52:38,401 - root - INFO - ********** Add Customer Test Passed ************
+2024-03-21 19:52:38,401 - root - INFO - ********** Add Customer Test Passed ************
+2024-03-21 19:52:38,401 - root - INFO - ********** Add Customer Test Passed ************
+2024-03-21 19:52:38,401 - root - INFO - ********** Add Customer Test Passed ************
+2024-03-21 19:52:38,611 - root - INFO - ********** Ending Test_003 Add Customer Test **********
+2024-03-21 19:52:38,611 - root - INFO - ********** Ending Test_003 Add Customer Test **********
+2024-03-21 19:52:38,611 - root - INFO - ********** Ending Test_003 Add Customer Test **********
+2024-03-21 19:52:38,611 - root - INFO - ********** Ending Test_003 Add Customer Test **********
+2024-03-21 19:52:38,611 - root - INFO - ********** Ending Test_003 Add Customer Test **********
+2024-03-21 19:52:38,611 - root - INFO - ********** Ending Test_003 Add Customer Test **********
+2024-03-21 19:52:38,611 - root - INFO - ********** Ending Test_003 Add Customer Test **********
+2024-03-21 19:52:41,634 - root - INFO - *****************Verifying Login test*****************************
+2024-03-21 19:52:41,634 - root - INFO - *****************Verifying Login test*****************************
+2024-03-21 19:52:41,634 - root - INFO - *****************Verifying Login test*****************************
+2024-03-21 19:52:41,634 - root - INFO - *****************Verifying Login test*****************************
+2024-03-21 19:52:41,634 - root - INFO - *****************Verifying Login test*****************************
+2024-03-21 19:52:41,634 - root - INFO - *****************Verifying Login test*****************************
+2024-03-21 19:52:41,634 - root - INFO - *****************Verifying Login test*****************************
+2024-03-21 19:52:52,845 - root - INFO - *****************Login test is passed*****************************
+2024-03-21 19:52:52,845 - root - INFO - *****************Login test is passed*****************************
+2024-03-21 19:52:52,845 - root - INFO - *****************Login test is passed*****************************
+2024-03-21 19:52:52,845 - root - INFO - *****************Login test is passed*****************************
+2024-03-21 19:52:52,845 - root - INFO - *****************Login test is passed*****************************
+2024-03-21 19:52:52,845 - root - INFO - *****************Login test is passed*****************************
+2024-03-21 19:52:52,845 - root - INFO - *****************Login test is passed*****************************
+2024-03-21 22:40:02,844 - root - INFO - ****************** Export All Customer Info *****************
+2024-03-21 22:40:30,695 - root - INFO - ************* Login Successful *************
+2024-03-21 22:40:30,696 - root - INFO - ************** Starting Export All Customer Info to Xlsx file ******************
+2024-03-21 22:40:39,420 - root - INFO - ****************** Starting All Customer Info Export *******************
+2024-03-21 22:40:52,406 - root - INFO - ********************* Test_ExportAllCustomerInfoXlsx_006 finished **********************
+2024-03-21 22:42:27,354 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 22:42:27,358 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 22:42:42,385 - root - INFO - ****Login DDT test passed*****
+2024-03-21 22:42:43,347 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 22:42:43,347 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 22:51:25,708 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 22:51:25,709 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 22:51:40,741 - root - INFO - ****Login DDT test passed*****
+2024-03-21 22:51:41,250 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 22:51:41,250 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 22:54:12,759 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 22:54:12,767 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 22:54:28,177 - root - INFO - ****Login DDT test passed*****
+2024-03-21 22:54:28,491 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 22:54:28,491 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 22:59:23,199 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 22:59:23,199 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 22:59:38,157 - root - INFO - ****Login DDT test passed*****
+2024-03-21 22:59:38,452 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 22:59:38,452 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 23:02:08,789 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 23:02:08,790 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 23:02:22,493 - root - INFO - ****Login DDT test passed*****
+2024-03-21 23:02:22,921 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 23:02:22,922 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 23:03:00,399 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 23:03:00,399 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 23:03:14,439 - root - INFO - ****Login DDT test passed*****
+2024-03-21 23:03:14,803 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 23:03:14,804 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 23:06:04,912 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 23:06:04,913 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 23:06:19,067 - root - INFO - ****Login DDT test passed*****
+2024-03-21 23:06:19,324 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 23:06:19,324 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 23:16:33,547 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 23:16:33,613 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 23:16:47,471 - root - INFO - ****Login DDT test passed*****
+2024-03-21 23:16:47,708 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 23:16:47,708 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-21 23:46:35,544 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-21 23:46:35,545 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-21 23:46:49,751 - root - INFO - ****Login DDT test passed*****
+2024-03-21 23:46:50,066 - root - INFO - ****** End of Login DDT Test ********
+2024-03-21 23:46:50,066 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-22 00:15:02,359 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-22 00:15:02,412 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-22 00:15:16,895 - root - INFO - ****Login DDT test passed*****
+2024-03-22 00:15:17,145 - root - INFO - ****** End of Login DDT Test ********
+2024-03-22 00:15:17,145 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-22 00:17:36,624 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-22 00:17:36,625 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-22 00:17:51,372 - root - INFO - ****Login DDT test passed*****
+2024-03-22 00:17:51,656 - root - INFO - ****** End of Login DDT Test ********
+2024-03-22 00:17:51,657 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-22 00:19:21,018 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-22 00:19:21,054 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-22 00:19:33,935 - root - INFO - ****Login DDT test passed*****
+2024-03-22 00:19:34,280 - root - INFO - ****** End of Login DDT Test ********
+2024-03-22 00:19:34,280 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-22 00:21:18,880 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-22 00:21:18,880 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-22 00:21:31,189 - root - INFO - ****Login DDT test passed*****
+2024-03-22 00:21:31,724 - root - INFO - ****** End of Login DDT Test ********
+2024-03-22 00:21:31,725 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-22 00:27:34,159 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-22 00:27:34,160 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-22 00:27:48,654 - root - INFO - ****Login DDT test passed*****
+2024-03-22 00:27:48,899 - root - INFO - ****** End of Login DDT Test ********
+2024-03-22 00:27:48,900 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-22 00:33:06,290 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-22 00:33:06,291 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-22 00:33:19,276 - root - INFO - ****Login DDT test passed*****
+2024-03-22 00:33:19,599 - root - INFO - ****** End of Login DDT Test ********
+2024-03-22 00:33:19,600 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-22 00:35:15,497 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-22 00:35:15,512 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-22 00:35:30,896 - root - INFO - ****Login DDT test passed*****
+2024-03-22 00:35:31,215 - root - INFO - ****** End of Login DDT Test ********
+2024-03-22 00:35:31,215 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-22 00:39:48,199 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-22 00:39:48,200 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-22 00:40:01,279 - root - INFO - ****Login DDT test passed*****
+2024-03-22 00:40:02,196 - root - INFO - ****** End of Login DDT Test ********
+2024-03-22 00:40:02,198 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-22 09:01:35,385 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-22 09:01:35,471 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-22 09:01:50,212 - root - INFO - ****Login DDT test passed*****
+2024-03-22 09:01:51,564 - root - INFO - ****** End of Login DDT Test ********
+2024-03-22 09:01:51,564 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-22 09:14:34,895 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-22 09:14:34,960 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-22 09:14:45,674 - root - INFO - ****Login DDT test passed*****
+2024-03-22 09:14:46,113 - root - INFO - ****** End of Login DDT Test ********
+2024-03-22 09:14:46,114 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-22 09:16:08,070 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-22 09:16:08,071 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-22 09:16:23,095 - root - INFO - ****Login DDT test passed*****
+2024-03-22 09:16:23,455 - root - INFO - ****** End of Login DDT Test ********
+2024-03-22 09:16:23,456 - root - INFO - ****** Completed TC_LoginDDT_002 ********
+2024-03-22 09:19:55,946 - root - INFO - **********Test_002_DDT_Login*********
+2024-03-22 09:19:55,947 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-22 09:20:12,798 - root - INFO - ****Login DDT test passed*****
+2024-03-22 09:20:12,992 - root - INFO - ****** End of Login DDT Test ********
+2024-03-22 09:20:12,992 - root - INFO - ****** Completed TC_LoginDDT_002 ********
