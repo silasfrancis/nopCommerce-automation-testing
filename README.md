@@ -1,4 +1,4 @@
-**Testing nopCommerce Demo Application**
+# Testing nopCommerce Demo Application
 This project involves the testing of the Customers Module on the nopCommerce Demo Platform using the Pytest FrameWork
 
 Features
