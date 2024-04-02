@@ -45,8 +45,3 @@ def pytest_metadata(metadata):
     metadata.pop('Plugins', None)
     metadata.pop('Packages', None)
     metadata.pop('Platform', None)
-
-
-#pytest -s -v --html=Reports/report.html testCases/test_login_ddt.py --browser chrome
-#pytest -s -v -n=2 --html=Reports/report.html testCases/test_login_ddt.py --browser chrome
-#pytest -s -v -m "sanity" --html=Reports/report.html testCases/test_login_ddt.py --browser chrome
