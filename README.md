@@ -5,6 +5,7 @@ This project involves the testing of the Customers Module on the nopCommerce Dem
 - Page Object Model
 - HTML Reports
 - Data Driven Testing
+- Logging
 - Multiple Browsers Support
 - Parallel Testing
 
@@ -17,7 +18,7 @@ This project involves the testing of the Customers Module on the nopCommerce Dem
 - Export Customers
      - Export All Customers
      - Export Selected Customers
-- Login via test Data in Excel
+- Login via test Data in xlsx file
 
 ## Languages, libraries and tools used
 - Python
