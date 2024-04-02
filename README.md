@@ -2,11 +2,11 @@
 This project involves the testing of the Customers Module on the nopCommerce Demo Platform using the Pytest FrameWork
 
 ## Features
-Page Object Model
-HTML Reports
-Data Driven Testing
-Multiple Browsers Support
-Parallel Testing
+- Page Object Model
+- HTML Reports
+- Data Driven Testing
+- Multiple Browsers Support
+- Parallel Testing
 
 *insert test execution video here*
 *insert html report*
@@ -56,7 +56,7 @@ pytest -s -v -m "regression" --html=./Reports/report.html testCases --browser fi
 ### 2. Running the Batch File located in this directory:
    Test can also be executed by running the batch file located in this directory.
    Double click on in or switch directory to this directory on command prompt and run the batch file from there
-   N/B: The batch file will run on default browser for now, but can be edited .
+   - N/B: The batch file will run on default browser for now, but can be edited .
    
 
 
