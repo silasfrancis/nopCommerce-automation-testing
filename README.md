@@ -51,5 +51,5 @@ Test Execution commands can be found in the run.bat file located in this resposi
 e.g.
 pytest -s -v -m "sanity" --html=./Reports/report.html testCases/ --browser chrome
 ```
-> This will run test on Chrome Browser
-> If no browser is specified test will be executed on chrome
+- > This will run test on Chrome Browser
+- > If no browser is specified test will be executed on chrome
