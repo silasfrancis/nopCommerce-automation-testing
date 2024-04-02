@@ -21,28 +21,21 @@ Parallel Testing
 - Pycharm
 
 ## Installation
-Install the dependencies to excute the testCases
-
-#### Install Pytest:
+To install the required libraries for distributed testing, run the following command in your terminal:
+```bash
 pip install -U pytest
-#### install pytest-html: 
 pip install pytest-html
-#### install pytest-xdist
 pip install pytest-xdist
-#### install openpyxl: 
 pip install openpyxl
-#### install allure-pytest:
 pip install allure-pytest
 
 ## Test Execution
 ### 1. Tests could be executed by running the following commands:
 #### Chrome Browser:
-'''
 pytest -s -v -m "sanity" --html=./Reports/report.html testCases/ --browser chrome
 pytest -s -v -m "sanity or regression" --html=./Reports/report.html testCases/ --browser chrome
 pytest -s -v -m "sanity and regression" --html=./Reports/report.html testCases --browser chrome
 pytest -s -v -m "regression" --html=./Reports/report.html testCases --browser chrome
-'''
 
 #### Edge: 
 pytest -s -v -m "sanity" --html=./Reports/report.html testCases/ --browser edge
