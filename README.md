@@ -11,40 +11,38 @@ Parallel Testing
 *insert test execution video here*
 *insert html report*
 
-### Languages, libraries and tools used
-Python
-Pytest
-pytest-html
-pytest-xdist
-Openpyxl
-Allure-pytest
-Pycharm
+## Languages, libraries and tools used
+- Python
+- Pytest
+- pytest-html
+- pytest-xdist
+- Openpyxl
+- Allure-pytest
+- Pycharm
 
-#### Installation
+## Installation
 Install the dependencies to excute the testCases
 
 #### Install Pytest:
 pip install -U pytest
-
 #### install pytest-html: 
 pip install pytest-html
-
 #### install pytest-xdist
 pip install pytest-xdist
-
 #### install openpyxl: 
 pip install openpyxl
-
 #### install allure-pytest:
 pip install allure-pytest
 
 ## Test Execution
-###1. Tests could be executed by running the following commands:
+### 1. Tests could be executed by running the following commands:
 #### Chrome Browser:
+'''
 pytest -s -v -m "sanity" --html=./Reports/report.html testCases/ --browser chrome
 pytest -s -v -m "sanity or regression" --html=./Reports/report.html testCases/ --browser chrome
 pytest -s -v -m "sanity and regression" --html=./Reports/report.html testCases --browser chrome
 pytest -s -v -m "regression" --html=./Reports/report.html testCases --browser chrome
+'''
 
 #### Edge: 
 pytest -s -v -m "sanity" --html=./Reports/report.html testCases/ --browser edge
