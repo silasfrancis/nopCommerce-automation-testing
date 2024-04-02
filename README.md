@@ -19,9 +19,6 @@ This project involves the testing of the Customers Module on the nopCommerce Dem
      - Export Selected Customers
 - Login via test Data in Excel
 
-*insert test execution video here*
-*insert html report*
-
 ## Languages, libraries and tools used
 - Python
 - Pytest
