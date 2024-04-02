@@ -28,6 +28,7 @@ pip install pytest-html
 pip install pytest-xdist
 pip install openpyxl
 pip install allure-pytest
+```
 
 ## Test Execution
 ### 1. Tests could be executed by running the following commands:
