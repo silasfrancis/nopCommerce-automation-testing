@@ -8,6 +8,17 @@ This project involves the testing of the Customers Module on the nopCommerce Dem
 - Multiple Browsers Support
 - Parallel Testing
 
+##Test Scenarios
+- Login into the nopCommerce demo site: https://admin-demo.nopcommerce.com/admin/
+- Add New Customer
+- Search For Customer
+   - Search for Customer by Name
+   - Search for Customer by ID
+- Export Customers
+     - Export All Customers
+     - Export Selected Customers
+- Login via test Data in Excel
+
 *insert test execution video here*
 *insert html report*
 
