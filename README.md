@@ -53,4 +53,5 @@ pytest -s -v -m "sanity" --html=./Reports/report.html testCases/ --browser chrom
 ```
 > This will run test on Chrome Browser
 
-N/B: If no browser is specified test will be executed on chrome
+_N/B: If no browser is specified test will be executed on chrome
+_
