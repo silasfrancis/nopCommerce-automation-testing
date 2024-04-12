@@ -27,7 +27,6 @@ This project involves the testing of the Customers Module on the nopCommerce Dem
 - pytest-xdist
 - Openpyxl
 - Allure-pytest
-- Pycharm
 
 ## Installation
 To install the required libraries for distributed testing, run the following command in your terminal:
