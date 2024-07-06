@@ -5,7 +5,7 @@ This project involves the testing of the Customers Module on the nopCommerce Dem
 - Page Object Model
 - HTML Reports
 - Data Driven Testing
-- Logging
+- Automation logs
 - Multiple Browsers Support
 - Parallel Testing
 
